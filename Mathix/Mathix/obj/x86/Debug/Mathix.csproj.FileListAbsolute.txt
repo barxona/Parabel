@@ -1,0 +1,27 @@
+F:\Mathix Projekt\Mathix\Mathix\bin\Debug\Mathix.exe
+F:\Mathix Projekt\Mathix\Mathix\bin\Debug\Mathix.pdb
+F:\Mathix Projekt\Mathix\Mathix\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Mathix Projekt\Mathix\Mathix\obj\x86\Debug\Mathix.Form1.resources
+F:\Mathix Projekt\Mathix\Mathix\obj\x86\Debug\Mathix.Properties.Resources.resources
+F:\Mathix Projekt\Mathix\Mathix\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Mathix Projekt\Mathix\Mathix\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Mathix Projekt\Mathix\Mathix\obj\x86\Debug\Mathix.exe
+F:\Mathix Projekt\Mathix\Mathix\obj\x86\Debug\Mathix.pdb
+E:\Mathix Projekt\Mathix\Mathix\bin\Debug\Mathix.exe
+E:\Mathix Projekt\Mathix\Mathix\bin\Debug\Mathix.pdb
+E:\Mathix Projekt\Mathix\Mathix\obj\x86\Debug\Mathix.csprojResolveAssemblyReference.cache
+E:\Mathix Projekt\Mathix\Mathix\obj\x86\Debug\Mathix.Form1.resources
+E:\Mathix Projekt\Mathix\Mathix\obj\x86\Debug\Mathix.Properties.Resources.resources
+E:\Mathix Projekt\Mathix\Mathix\obj\x86\Debug\Mathix.csproj.GenerateResource.Cache
+E:\Mathix Projekt\Mathix\Mathix\obj\x86\Debug\Mathix.csproj.CoreCompileInputs.cache
+E:\Mathix Projekt\Mathix\Mathix\obj\x86\Debug\Mathix.exe
+E:\Mathix Projekt\Mathix\Mathix\obj\x86\Debug\Mathix.pdb
+W:\Mathix\Mathix\obj\x86\Debug\Mathix.exe
+W:\Mathix\Mathix\obj\x86\Debug\Mathix.pdb
+W:\Mathix\Mathix\bin\Debug\Mathix.exe
+W:\Mathix\Mathix\bin\Debug\Mathix.pdb
+W:\Mathix\Mathix\obj\x86\Debug\Mathix.csprojResolveAssemblyReference.cache
+W:\Mathix\Mathix\obj\x86\Debug\Mathix.Form1.resources
+W:\Mathix\Mathix\obj\x86\Debug\Mathix.Properties.Resources.resources
+W:\Mathix\Mathix\obj\x86\Debug\Mathix.csproj.GenerateResource.Cache
+W:\Mathix\Mathix\obj\x86\Debug\Mathix.Parabel.ParabelForm.resources
